@@ -1,4 +1,5 @@
 # VBA-challenge
+# Name: Stanley Nyarko Aboagye
 VBA Challenge for Week 2
 ----------------------------------------------------------------------
 
